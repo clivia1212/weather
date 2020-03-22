@@ -1,0 +1,11 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.8.1",
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  }
+}
